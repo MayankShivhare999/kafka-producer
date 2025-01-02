@@ -13,5 +13,5 @@ This is a simple Kafka Producer application built with Spring Boot.
 ### Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/kafka-producer.git
+git clone https://github.com/MayankShivhare999/kafka-producer.git
 cd kafka-producer
