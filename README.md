@@ -11,7 +11,7 @@ This is a simple Kafka Producer application built with Spring Boot.
 
 ## Getting Started
 
-### **Setup Kafka using Docker:**
+ - **Setup Kafka using Docker:**
     Create a `docker-compose.yml` file in the root directory of your project with the following content:
     ```yaml
     version: '3.8'
@@ -78,6 +78,11 @@ cd kafka-consumer
 7. Build the project:
 ```sh
 mvn clean install
+```
+
+8. To run the consumer application, use the following command:
+```sh
+mvn spring-boot:run
 ```
 
 
